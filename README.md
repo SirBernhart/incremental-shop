@@ -35,3 +35,6 @@ O dia acaba quando:
 - [GitHub Repository](https://github.com/SirBernhart/incremental-shop)
 - [Trello](https://trello.com/b/r6cD38nL)
 - [Unity 6000.5.2f1](https://unity.com/pt/releases/editor/whats-new/6000.5.2f1)
+
+### Pacotes externos
+- [UniTask](https://github.com/Cysharp/UniTask.git)
