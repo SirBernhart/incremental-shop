@@ -6,6 +6,7 @@ public class PlayerInventory : Inventory
     
     protected override void OnItemRemoved(ItemView itemView)
     {
+        TakeItem(itemView);
         negotiationTable.AddItem(itemView);
     }
 }
