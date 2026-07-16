@@ -1,6 +1,4 @@
-using System;
 using CoreGameplay.Items;
-using UnityEditor.PackageManager;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
@@ -16,7 +14,8 @@ public class PlaceholderClient : MonoBehaviour
         for (int i = 0; i < itemsToAddCount; i++)
         {
             ItemView itemView = Instantiate(itemPrefab);
-            itemView.ItemConfig = possibleItemsToAdd[Random.Range(0, possibleItemsToAdd.Length)];
+            
+            itemView.Setup(possibleItemsToAdd[Random.Range(0, possibleItemsToAdd.Length)]);
             inventory.AddItem(itemView);
         }
     }
