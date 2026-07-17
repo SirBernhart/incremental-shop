@@ -4,7 +4,14 @@ public class ClientInventory : Inventory
 {
     protected override void OnItemRemoved(ItemView itemView)
     {
-        TakeItem(itemView);
-        ServicesLocator.Get<PlayerInventory>().AddItem(itemView);
+        var playerInventory = ServicesLocator.Get<PlayerInventory>();
+
+        if (playerInventory.CanFitItem(itemView))
+        {
+            return;
+        }
+
+        ItemView takenItem = TakeItem(itemView);
+        playerInventory.AddItem(takenItem);
     }
 }

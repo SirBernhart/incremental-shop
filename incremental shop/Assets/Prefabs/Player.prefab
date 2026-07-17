@@ -150,6 +150,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerInventory
   itemsContainer: {fileID: 4772837475066657461}
+  itemLimit: 8
   negotiationTable: {fileID: 0}
 --- !u!1 &7566573461381538633
 GameObject:

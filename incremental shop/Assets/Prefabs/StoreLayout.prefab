@@ -416,6 +416,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ClientInventory
   itemsContainer: {fileID: 5776379452582696898}
+  itemLimit: 3
 --- !u!1001 &2614262845200349600
 PrefabInstance:
   m_ObjectHideFlags: 0

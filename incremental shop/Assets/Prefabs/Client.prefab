@@ -286,3 +286,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ClientInventory
   itemsContainer: {fileID: 3424561734510161418}
+  itemLimit: 3
