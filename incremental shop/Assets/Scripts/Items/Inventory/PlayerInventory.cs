@@ -6,7 +6,7 @@ public class PlayerInventory : Inventory
     
     protected override void OnItemRemoved(ItemView itemView)
     {
-        if (negotiationTable.CanFitItem(itemView))
+        if (!negotiationTable.CanFitItem(itemView))
         {
             return;
         }

@@ -6,7 +6,7 @@ public class ClientInventory : Inventory
     {
         var playerInventory = ServicesLocator.Get<PlayerInventory>();
 
-        if (playerInventory.CanFitItem(itemView))
+        if (!playerInventory.CanFitItem(itemView))
         {
             return;
         }

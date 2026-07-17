@@ -15,7 +15,7 @@ public abstract class Inventory : MonoBehaviour
             return true;
         }
         
-        return _itemIdToAmount.Count >= itemLimit;
+        return _itemIdToAmount.Count < itemLimit;
     }
     
     public void AddItem(ItemView itemView)
