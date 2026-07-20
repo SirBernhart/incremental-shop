@@ -8,11 +8,18 @@ using Random = UnityEngine.Random;
 public class Client : MonoBehaviour
 {
     [SerializeField] private ClientInventory inventory;
-    [SerializeField] private Item[] possibleItemsToAdd;
-    [SerializeField] private int itemsToAddCount;
     [SerializeField] private ItemView itemPrefab;
 
-    private void Awake()
+    [Header("FUTURE STANDALONE CONFIG")]
+    [SerializeField] private Item[] possibleItemsToAdd;
+    [SerializeField] private int itemsToAddCount;
+
+    public void Awake()
+    {
+        SetInventoryVisual(false);
+    }
+
+    public void Setup()
     {
         for (int i = 0; i < itemsToAddCount; i++)
         {
@@ -21,5 +28,12 @@ public class Client : MonoBehaviour
             itemView.Setup(possibleItemsToAdd[Random.Range(0, possibleItemsToAdd.Length)]);
             inventory.AddItem(itemView);
         }
+
+        SetInventoryVisual(true);
+    }
+
+    public void SetInventoryVisual(bool active)
+    {
+        inventory.gameObject.SetActive(active);
     }
 }
