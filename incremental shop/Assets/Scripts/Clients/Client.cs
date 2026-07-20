@@ -2,7 +2,10 @@ using CoreGameplay.Items;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-public class PlaceholderClient : MonoBehaviour
+/// <summary>
+/// Class that controls Clients and their respective requests
+/// </summary>
+public class Client : MonoBehaviour
 {
     [SerializeField] private ClientInventory inventory;
     [SerializeField] private Item[] possibleItemsToAdd;
