@@ -6,12 +6,15 @@ public class GameSetup : MonoBehaviour
 {
     [SerializeField] private PlayerInventory playerInventory;
     [SerializeField] private ClientQueueController clientQueue;
+    [SerializeField] private DayPeriodController dayPeriodController;
     
     private void Awake()
     {
-        ServicesLocator.Register<PlayerInventory>(playerInventory);
+        ServicesLocator.Register(dayPeriodController);
 
-        ServicesLocator.Register<ClientQueueController>(clientQueue);
+        ServicesLocator.Register(playerInventory);
+
+        ServicesLocator.Register(clientQueue);
         clientQueue.Setup();
     }
 }
