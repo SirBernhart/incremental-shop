@@ -31,6 +31,8 @@ O dia acaba quando:
 
 ‼️Condição de derrota: Se o jogador NÃO TIVER DINHEIRO o suficiente, ele perde e o jogo recomeça do 0
 
+➡ [Google Docs das definições mais atualizadas](https://docs.google.com/document/d/1i1UdUDQ0hUfyKMXzXObUwtGwcjWgvr24-ul9CRNR-64/edit?tab=t.0)
+
 ## Links de coisas importantes
 - [GitHub Repository](https://github.com/SirBernhart/incremental-shop)
 - [Trello](https://trello.com/b/r6cD38nL)
