@@ -7,6 +7,8 @@ public class DayPeriodController : MonoBehaviour
     public event Action<int> OnTick;
     public event Action OnPeriodEnd;
 
+    [SerializeField] private DayPeriodControllerView view;
+
     [Header("FUTURE STANDALONE CONFIG")]
     [SerializeField] private int tickSize = 1;
     [SerializeField] private int timerGoal = 60;
@@ -17,6 +19,7 @@ public class DayPeriodController : MonoBehaviour
 
     private void Awake()
     {
+        view.Setup(0, timerGoal, this);
         StartTimer(tickSize, timerGoal);
     }
 
