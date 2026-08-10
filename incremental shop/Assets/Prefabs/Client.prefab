@@ -110,7 +110,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 218.44777, y: 0}
+  m_AnchoredPosition: {x: -210, y: 120}
   m_SizeDelta: {x: 334.4956, y: 147.3064}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2930077265728328063
@@ -228,6 +228,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlaceholderClient
   inventory: {fileID: 8478855736505342328}
+  itemPrefab: {fileID: 1200102697374626614, guid: a07b52afc62483e649cc12e257886d73, type: 3}
   possibleItemsToAdd:
   - {fileID: 11400000, guid: 129aec0be92db6c50a3152c51f60e5b7, type: 2}
   - {fileID: 11400000, guid: 29d6b23624dfcc7bd8419c67603a827e, type: 2}
@@ -235,7 +236,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 14667f52a658765ef96cef4951a909f8, type: 2}
   - {fileID: 11400000, guid: eaa2ac0d118fde493bade7919858ecd0, type: 2}
   itemsToAddCount: 3
-  itemPrefab: {fileID: 1200102697374626614, guid: a07b52afc62483e649cc12e257886d73, type: 3}
 --- !u!1 &9038519496862073218
 GameObject:
   m_ObjectHideFlags: 0
