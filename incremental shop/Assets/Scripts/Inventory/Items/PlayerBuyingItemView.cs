@@ -1,4 +1,5 @@
 using UnityEngine;
+using Utils;
 
 public class PlayerBuyingItemView : ItemView
 {
@@ -7,15 +8,15 @@ public class PlayerBuyingItemView : ItemView
     
     protected override void UpdateInteractableState()
     {
-        //TODO: Check for gold
-        isInteractable = PlayerInventory.CanFitItem(this);
+        isInteractable = PlayerInventory.CanFitItem(this) 
+                         && ServicesLocator.Get<CurrencyService>().HasEnoughCurrency(ItemConfig.BasePrice);
     }
 
     protected override void Interact()
     {
         PlayerInventory.OnInventoryItemAmountChanged -= HandleOnInventoryItemAmountChanged;
         
-        //TODO: Remove gold
+        ServicesLocator.Get<CurrencyService>().ChangeCurrencyAmount(-ItemConfig.BasePrice);
         PlayerInventory.AddItem(ItemConfig);
         Destroy(gameObject);
     }

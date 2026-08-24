@@ -1,4 +1,5 @@
 using UnityEngine;
+using Utils;
 
 public class PlayerSellingItemView : ItemView
 {
@@ -12,7 +13,7 @@ public class PlayerSellingItemView : ItemView
     {
         PlayerInventory.OnInventoryItemAmountChanged -= HandleOnInventoryItemAmountChanged;
         
-        //TODO: Add money
+        ServicesLocator.Get<CurrencyService>().ChangeCurrencyAmount(ItemConfig.BasePrice);
         UpdateInteractableState();
         icon.color = _fulfilledColor;
         PlayerInventory.TakeItem(ItemConfig);
