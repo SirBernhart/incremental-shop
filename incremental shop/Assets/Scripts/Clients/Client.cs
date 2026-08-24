@@ -2,14 +2,19 @@ using CoreGameplay.Items;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-public class PlaceholderClient : MonoBehaviour
+/// <summary>
+/// Class that controls Clients and their respective requests
+/// </summary>
+public class Client : MonoBehaviour
 {
     [SerializeField] private NegotiationTable playerSellingNegotiationTable;
     [SerializeField] private NegotiationTable playerBuyingNegotiationTable;
+
+    [Header("FUTURE STANDALONE CONFIG")]
     [SerializeField] private Item[] possibleItemsToAdd;
     [SerializeField] private int itemsToAddCount;
 
-    private void Awake()
+    public void Setup()
     {
         for (int i = 0; i < itemsToAddCount; i++)
         {

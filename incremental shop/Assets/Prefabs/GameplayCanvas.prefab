@@ -191,6 +191,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2968870546387162616, guid: 109dbd3d54e90f3ae851250cf791ef44, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -186
+      objectReference: {fileID: 0}
     - target: {fileID: 7580434723930946041, guid: 109dbd3d54e90f3ae851250cf791ef44, type: 3}
       propertyPath: m_Name
       value: StoreLayout
