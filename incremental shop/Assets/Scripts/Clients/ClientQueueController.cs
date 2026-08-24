@@ -5,10 +5,11 @@ using UnityEngine;
 public class ClientQueueController : MonoBehaviour
 {
     [SerializeField] private Client ClientPrefab;
+    [SerializeField] private NegotiationTable playerSellingNegotiationTable;
+    [SerializeField] private NegotiationTable playerBuyingNegotiationTable;
 
     [Header("FUTURE STANDALONE CONFIG")]
     [SerializeField] private int numberOfClients = 3; // TODO - migrate to level/day/run config
-
 
     private Transform cachedTransform;
 
@@ -28,6 +29,6 @@ public class ClientQueueController : MonoBehaviour
             clientQueue.Enqueue(client);
         }
 
-        clientQueue.Peek().Setup();
+        clientQueue.Peek().Setup(playerBuyingNegotiationTable, playerSellingNegotiationTable);
     }
 }

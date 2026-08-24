@@ -9,12 +9,7 @@ public class NegotiationTable : MonoBehaviour
     
     public void AddItem(Item itemConfig)
     {
-        ItemView itemView = InstantiateItemView();
+        ItemView itemView = Instantiate(itemViewPrefab, itemHolder);
         itemView.Setup(itemConfig, playerInventory);
-    }
-
-    protected virtual ItemView InstantiateItemView()
-    {
-        return Instantiate(itemViewPrefab, itemHolder);
     }
 }

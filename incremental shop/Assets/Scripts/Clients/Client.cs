@@ -7,14 +7,11 @@ using Random = UnityEngine.Random;
 /// </summary>
 public class Client : MonoBehaviour
 {
-    [SerializeField] private NegotiationTable playerSellingNegotiationTable;
-    [SerializeField] private NegotiationTable playerBuyingNegotiationTable;
-
     [Header("FUTURE STANDALONE CONFIG")]
     [SerializeField] private Item[] possibleItemsToAdd;
     [SerializeField] private int itemsToAddCount;
 
-    public void Setup()
+    public void Setup(NegotiationTable playerBuyingNegotiationTable, NegotiationTable playerSellingNegotiationTable)
     {
         for (int i = 0; i < itemsToAddCount; i++)
         {
