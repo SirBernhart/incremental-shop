@@ -7,8 +7,8 @@ using UnityEngine.UI;
 public abstract class ItemView : MonoBehaviour, IPointerClickHandler
 {
     [SerializeField] protected Image icon;
-    [SerializeField] private TMP_Text itemCountText;
-    [SerializeField] private GameObject itemCountHolder;
+    [SerializeField] private TMP_Text itemPriceText;
+    [SerializeField] private GameObject itemPriceHolder;
     
     protected Inventory PlayerInventory;
     
@@ -22,6 +22,7 @@ public abstract class ItemView : MonoBehaviour, IPointerClickHandler
         icon.sprite = ItemConfig.Icon;
         PlayerInventory = playerInventory;
         PlayerInventory.OnInventoryItemAmountChanged += HandleOnInventoryItemAmountChanged;
+        itemPriceText.text = ItemConfig.BasePrice.ToString();
         UpdateInteractableState();
     }
 
@@ -40,13 +41,6 @@ public abstract class ItemView : MonoBehaviour, IPointerClickHandler
     protected virtual void HandleOnInventoryItemAmountChanged() { }
 
     protected abstract void Interact();
-
-    public void UpdateItemCount(int count)
-    {
-        itemCountHolder.SetActive(count > 1);
-
-        itemCountText.text = count.ToString();
-    }
 
     private void OnDestroy()
     {
