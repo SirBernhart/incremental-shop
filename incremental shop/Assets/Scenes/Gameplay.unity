@@ -290,6 +290,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GameplayCanvas
       objectReference: {fileID: 0}
+    - target: {fileID: 8228517620008979351, guid: d3e0fb480571b1f28b2ba431e01d8655, type: 3}
+      propertyPath: itemLimit
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 3124426369272969320, guid: d3e0fb480571b1f28b2ba431e01d8655, type: 3}
@@ -435,17 +439,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1132523691 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 2690250378287029255, guid: d3e0fb480571b1f28b2ba431e01d8655, type: 3}
-  m_PrefabInstance: {fileID: 578344804}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d222ed95a6867aeef8f4d912442ca351, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerInventory
 --- !u!1 &1390641773
 GameObject:
   m_ObjectHideFlags: 0
@@ -475,7 +468,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 353b8b3f19c9126c6a4f9844c80a8754, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameSetup
-  playerInventory: {fileID: 1132523691}
+  playerInventory: {fileID: 0}
 --- !u!4 &1390641775
 Transform:
   m_ObjectHideFlags: 0
