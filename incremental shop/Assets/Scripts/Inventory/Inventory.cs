@@ -34,6 +34,7 @@ public class Inventory : MonoBehaviour
             }
             
             var inventoryItemView = Instantiate(_itemViewPrefab, itemsContainer);
+            inventoryItemView.Setup(itemConfig, this);
             
             itemAmount = new ItemAmount { Amount = 0, ItemView = inventoryItemView };
             _itemIdToAmount.Add(itemConfig.Id, itemAmount);
