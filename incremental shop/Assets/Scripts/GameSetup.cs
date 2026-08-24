@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 using Utils;
 
@@ -11,6 +10,9 @@ public class GameSetup : MonoBehaviour
     {
         ServicesLocator.Register<Inventory>(playerInventory);
 
+        CurrencyService currencyService = new();
+        ServicesLocator.Register<CurrencyService>(currencyService);
+        
         ServicesLocator.Register<ClientQueueController>(clientQueue);
         clientQueue.Setup();
     }
