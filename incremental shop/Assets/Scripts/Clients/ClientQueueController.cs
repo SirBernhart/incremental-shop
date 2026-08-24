@@ -29,6 +29,22 @@ public class ClientQueueController : MonoBehaviour
             clientQueue.Enqueue(client);
         }
 
+        SetupNextClient();
+    }
+
+    public void ClearPreviousClientAndSetupNextClient()
+    {
+        playerBuyingNegotiationTable.ClearItems();
+        playerSellingNegotiationTable.ClearItems();
+
+        Client previousClient = clientQueue.Dequeue();
+        Destroy(previousClient.gameObject);
+        
+        SetupNextClient();
+    }
+    
+    private void SetupNextClient()
+    {
         clientQueue.Peek().Setup(playerBuyingNegotiationTable, playerSellingNegotiationTable);
     }
 }
