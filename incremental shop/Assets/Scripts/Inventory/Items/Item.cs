@@ -8,6 +8,7 @@ namespace CoreGameplay.Items
         public string Id;
         public string Description;
         public Sprite Icon;
+        public int BasePrice;
     }
 }
 
