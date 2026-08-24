@@ -41,7 +41,7 @@ public class Inventory : MonoBehaviour
         }
         
         itemAmount.Amount++;
-        itemAmount.ItemView.UpdateItemCount(itemAmount.Amount);
+        (itemAmount.ItemView as PlayerInventoryItemView).UpdateItemCount(itemAmount.Amount);
         
         _itemIdToAmount[itemConfig.Id] = itemAmount;
         OnInventoryItemAmountChanged?.Invoke();
@@ -63,7 +63,7 @@ public class Inventory : MonoBehaviour
         }
         else
         {
-            itemAmount.ItemView.UpdateItemCount(itemAmount.Amount);
+            (itemAmount.ItemView as PlayerInventoryItemView).UpdateItemCount(itemAmount.Amount);
         }
         
         OnInventoryItemAmountChanged?.Invoke();
