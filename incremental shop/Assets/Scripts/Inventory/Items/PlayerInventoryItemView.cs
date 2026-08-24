@@ -4,11 +4,11 @@ public class PlayerInventoryItemView : ItemView
 {
     protected override void UpdateInteractableState()
     {
-        throw new System.NotImplementedException();
+        // Currently always NOT interactable
     }
 
     protected override void Interact()
     {
-        throw new System.NotImplementedException();
+        // TODO: Consider adding a popup that shows item description
     }
 }
