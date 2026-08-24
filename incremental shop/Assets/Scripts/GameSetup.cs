@@ -3,10 +3,10 @@ using Utils;
 
 public class GameSetup : MonoBehaviour
 {
-    [SerializeField] private PlayerInventory playerInventory;
+    [SerializeField] private Inventory playerInventory;
     
     private void Awake()
     {
-        ServicesLocator.Register<PlayerInventory>(playerInventory);
+        ServicesLocator.Register<Inventory>(playerInventory);
     }
 }
