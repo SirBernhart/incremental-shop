@@ -119,6 +119,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerInventoryItemView
   icon: {fileID: 3027209015101916636}
+  itemPriceText: {fileID: 6424815841322417693}
+  itemPriceHolder: {fileID: 0}
   itemCountText: {fileID: 8815545301897323547}
   itemCountHolder: {fileID: 4505885482224199012}
 --- !u!114 &3027209015101916636 stripped
@@ -137,6 +139,17 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 8833473442033104856, guid: a07b52afc62483e649cc12e257886d73, type: 3}
   m_PrefabInstance: {fileID: 4908593406339109564}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &6424815841322417693 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2105244008480107681, guid: a07b52afc62483e649cc12e257886d73, type: 3}
+  m_PrefabInstance: {fileID: 4908593406339109564}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
 --- !u!114 &8815545301897323547 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 4488338461666768551, guid: a07b52afc62483e649cc12e257886d73, type: 3}

@@ -101,9 +101,9 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 3724467105485523611}
   m_SourcePrefab: {fileID: 100100000, guid: a07b52afc62483e649cc12e257886d73, type: 3}
---- !u!114 &1766450472971475577 stripped
+--- !u!114 &4322660772265984127 stripped
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4488338461666768551, guid: a07b52afc62483e649cc12e257886d73, type: 3}
+  m_CorrespondingSourceObject: {fileID: 2105244008480107681, guid: a07b52afc62483e649cc12e257886d73, type: 3}
   m_PrefabInstance: {fileID: 2795179922259700958}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
@@ -123,11 +123,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
---- !u!1 &6655392396071475974 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8833473442033104856, guid: a07b52afc62483e649cc12e257886d73, type: 3}
-  m_PrefabInstance: {fileID: 2795179922259700958}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &8419748320331519509 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5913944466818513611, guid: a07b52afc62483e649cc12e257886d73, type: 3}
@@ -146,8 +141,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerSellingItemView
   icon: {fileID: 5248492818422283198}
-  itemCountText: {fileID: 1766450472971475577}
-  itemCountHolder: {fileID: 6655392396071475974}
+  itemPriceText: {fileID: 4322660772265984127}
+  itemPriceHolder: {fileID: 0}
   _uninteractableColor: {r: 0.49803922, g: 0.49803922, b: 0.49803922, a: 0.6862745}
   _interactableColor: {r: 0.49803922, g: 0.49803922, b: 0.49803922, a: 1}
   _fulfilledColor: {r: 1, g: 1, b: 1, a: 1}
