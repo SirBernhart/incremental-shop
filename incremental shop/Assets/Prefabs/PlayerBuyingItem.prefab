@@ -132,8 +132,10 @@ MonoBehaviour:
   icon: {fileID: 7811945794623915269}
   itemPriceText: {fileID: 2252593898553343684}
   itemPriceHolder: {fileID: 0}
+  playerPriceMultiplier: 0.8
   _uninteractableColor: {r: 0.4982369, g: 0.4982369, b: 0.4982369, a: 0.6862745}
-  _interactableColor: {r: 1, g: 1, b: 1, a: 0}
+  _interactableColor: {r: 1, g: 1, b: 1, a: 1}
+  _playerPriceCutMultiplier: 0.8
 --- !u!114 &7811945794623915269 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 7934248792653059936, guid: a07b52afc62483e649cc12e257886d73, type: 3}
