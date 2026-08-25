@@ -13,7 +13,7 @@ public class PlayerSellingItemView : ItemView
     {
         PlayerInventory.OnInventoryItemAmountChanged -= HandleOnInventoryItemAmountChanged;
         
-        ServicesLocator.Get<CurrencyService>().ChangeCurrencyAmount(ItemConfig.BasePrice);
+        ServicesLocator.Get<CurrencyService>().ChangeCurrencyAmount(PriceAdjustedForPlayer);
         UpdateInteractableState();
         icon.color = _fulfilledColor;
         PlayerInventory.TakeItem(ItemConfig);

@@ -9,8 +9,11 @@ public abstract class ItemView : MonoBehaviour, IPointerClickHandler
     [SerializeField] protected Image icon;
     [SerializeField] private TMP_Text itemPriceText;
     [SerializeField] private GameObject itemPriceHolder;
+    [SerializeField] private float playerPriceMultiplier;
     
     protected Inventory PlayerInventory;
+    // TODO: move to a specific class to control this
+    protected int PriceAdjustedForPlayer => (int)(ItemConfig.BasePrice * playerPriceMultiplier); 
     
     public Item ItemConfig {get; private set;}
     
@@ -22,7 +25,8 @@ public abstract class ItemView : MonoBehaviour, IPointerClickHandler
         icon.sprite = ItemConfig.Icon;
         PlayerInventory = playerInventory;
         PlayerInventory.OnInventoryItemAmountChanged += HandleOnInventoryItemAmountChanged;
-        itemPriceText.text = ItemConfig.BasePrice.ToString();
+        itemPriceText.text = PriceAdjustedForPlayer.ToString();
+        Debug.Log(PriceAdjustedForPlayer);
         UpdateInteractableState();
     }
 

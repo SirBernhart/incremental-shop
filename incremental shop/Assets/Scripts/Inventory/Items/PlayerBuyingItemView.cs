@@ -9,14 +9,14 @@ public class PlayerBuyingItemView : ItemView
     protected override void UpdateInteractableState()
     {
         isInteractable = PlayerInventory.CanFitItem(this) 
-                         && ServicesLocator.Get<CurrencyService>().HasEnoughCurrency(ItemConfig.BasePrice);
+                         && ServicesLocator.Get<CurrencyService>().HasEnoughCurrency(PriceAdjustedForPlayer);
     }
 
     protected override void Interact()
     {
         PlayerInventory.OnInventoryItemAmountChanged -= HandleOnInventoryItemAmountChanged;
         
-        ServicesLocator.Get<CurrencyService>().ChangeCurrencyAmount(-ItemConfig.BasePrice);
+        ServicesLocator.Get<CurrencyService>().ChangeCurrencyAmount(-PriceAdjustedForPlayer);
         PlayerInventory.AddItem(ItemConfig);
         Destroy(gameObject);
     }
