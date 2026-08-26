@@ -5,9 +5,12 @@ public class GameSetup : MonoBehaviour
 {
     [SerializeField] private Inventory playerInventory;
     [SerializeField] private ClientQueueController clientQueue;
+    [SerializeField] private DayPeriodController dayPeriodController;
     
     private void Awake()
     {
+        ServicesLocator.Register(dayPeriodController);
+
         ServicesLocator.Register<Inventory>(playerInventory);
 
         CurrencyService currencyService = new();

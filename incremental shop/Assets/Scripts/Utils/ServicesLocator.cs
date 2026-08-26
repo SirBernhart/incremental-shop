@@ -7,9 +7,20 @@ namespace Utils
     {
         private static Dictionary<Type, object> registeredServices = new();
 
+        public static void Register(object service)
+        {
+            if(service == null)
+            {
+                UnityEngine.Debug.LogError("ServicesLocator.Register - couldn't Register a null object");
+                return;
+            }
+
+            Register(service.GetType(), service);
+        }
+
         public static void Register<T>(object service)
         {
-            registeredServices.TryAdd(typeof(T), service);
+            Register(typeof(T), service);
         }
 
         public static void Unregister<T>()
@@ -20,6 +31,11 @@ namespace Utils
         public static T Get<T>()
         {
             return (T) registeredServices[typeof(T)];
+        }
+
+        private static void Register(Type expectedType, object service)
+        {
+            registeredServices.TryAdd(expectedType, service);
         }
     }
 }

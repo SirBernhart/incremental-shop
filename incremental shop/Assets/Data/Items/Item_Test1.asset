@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CoreGameplay.Items.Item
   Id: Test1
   Description: 
-  Icon: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  Icon: {fileID: 5455553693531753210, guid: 7636373c01d3085498b9128e3e4939b1, type: 3}
   BasePrice: 10
+

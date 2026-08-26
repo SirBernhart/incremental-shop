@@ -1,0 +1,2501 @@
+fileFormatVersion: 2
+guid: decb5d8979c36ff4d9562a6e07be0061
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1367063556000146539
+    second: MV Icons PACK 2 - 24x24 - ALL_0
+  - first:
+      213: 3641630606463067537
+    second: MV Icons PACK 2 - 24x24 - ALL_1
+  - first:
+      213: -7731710805620509712
+    second: MV Icons PACK 2 - 24x24 - ALL_2
+  - first:
+      213: 1241778636593369459
+    second: MV Icons PACK 2 - 24x24 - ALL_3
+  - first:
+      213: -5083124024047201434
+    second: MV Icons PACK 2 - 24x24 - ALL_4
+  - first:
+      213: -2057733508268633228
+    second: MV Icons PACK 2 - 24x24 - ALL_5
+  - first:
+      213: 8279084652635836253
+    second: MV Icons PACK 2 - 24x24 - ALL_6
+  - first:
+      213: -9142854004979693770
+    second: MV Icons PACK 2 - 24x24 - ALL_7
+  - first:
+      213: -8471311251334418242
+    second: MV Icons PACK 2 - 24x24 - ALL_8
+  - first:
+      213: 4995536994730483739
+    second: MV Icons PACK 2 - 24x24 - ALL_9
+  - first:
+      213: -8082317245467916358
+    second: MV Icons PACK 2 - 24x24 - ALL_10
+  - first:
+      213: 6953457649725607961
+    second: MV Icons PACK 2 - 24x24 - ALL_11
+  - first:
+      213: -924532388456442898
+    second: MV Icons PACK 2 - 24x24 - ALL_12
+  - first:
+      213: -5887602064549496568
+    second: MV Icons PACK 2 - 24x24 - ALL_13
+  - first:
+      213: 4353483391145802035
+    second: MV Icons PACK 2 - 24x24 - ALL_14
+  - first:
+      213: 4809695449287095086
+    second: MV Icons PACK 2 - 24x24 - ALL_15
+  - first:
+      213: 1780023287503588399
+    second: MV Icons PACK 2 - 24x24 - ALL_16
+  - first:
+      213: -5844645099414693104
+    second: MV Icons PACK 2 - 24x24 - ALL_17
+  - first:
+      213: 76524671466523531
+    second: MV Icons PACK 2 - 24x24 - ALL_18
+  - first:
+      213: -2797682503419074663
+    second: MV Icons PACK 2 - 24x24 - ALL_19
+  - first:
+      213: 656215396097254257
+    second: MV Icons PACK 2 - 24x24 - ALL_20
+  - first:
+      213: -6567268709228617021
+    second: MV Icons PACK 2 - 24x24 - ALL_21
+  - first:
+      213: 3970874765188267968
+    second: MV Icons PACK 2 - 24x24 - ALL_22
+  - first:
+      213: 4634645804746966044
+    second: MV Icons PACK 2 - 24x24 - ALL_23
+  - first:
+      213: 6837814183251301566
+    second: MV Icons PACK 2 - 24x24 - ALL_24
+  - first:
+      213: -4571882440027318095
+    second: MV Icons PACK 2 - 24x24 - ALL_25
+  - first:
+      213: 8369169807641729497
+    second: MV Icons PACK 2 - 24x24 - ALL_26
+  - first:
+      213: 3692119077708340889
+    second: MV Icons PACK 2 - 24x24 - ALL_27
+  - first:
+      213: 6052240335602994857
+    second: MV Icons PACK 2 - 24x24 - ALL_28
+  - first:
+      213: -5999434001571289861
+    second: MV Icons PACK 2 - 24x24 - ALL_29
+  - first:
+      213: 3590260732480923010
+    second: MV Icons PACK 2 - 24x24 - ALL_30
+  - first:
+      213: 6461963663014462260
+    second: MV Icons PACK 2 - 24x24 - ALL_31
+  - first:
+      213: 1761204172124422256
+    second: MV Icons PACK 2 - 24x24 - ALL_32
+  - first:
+      213: -8954682922235973264
+    second: MV Icons PACK 2 - 24x24 - ALL_33
+  - first:
+      213: 3843358352616705764
+    second: MV Icons PACK 2 - 24x24 - ALL_34
+  - first:
+      213: 9102526744568164549
+    second: MV Icons PACK 2 - 24x24 - ALL_35
+  - first:
+      213: -7880623697835229819
+    second: MV Icons PACK 2 - 24x24 - ALL_36
+  - first:
+      213: 6551376010777988018
+    second: MV Icons PACK 2 - 24x24 - ALL_37
+  - first:
+      213: -7877772404069071370
+    second: MV Icons PACK 2 - 24x24 - ALL_38
+  - first:
+      213: 8688951622811537697
+    second: MV Icons PACK 2 - 24x24 - ALL_39
+  - first:
+      213: 7167899981003987946
+    second: MV Icons PACK 2 - 24x24 - ALL_40
+  - first:
+      213: 6329185478574998506
+    second: MV Icons PACK 2 - 24x24 - ALL_41
+  - first:
+      213: -771961577796438371
+    second: MV Icons PACK 2 - 24x24 - ALL_42
+  - first:
+      213: 6611573840092203344
+    second: MV Icons PACK 2 - 24x24 - ALL_43
+  - first:
+      213: -6453155018754973597
+    second: MV Icons PACK 2 - 24x24 - ALL_44
+  - first:
+      213: -7342884734462096211
+    second: MV Icons PACK 2 - 24x24 - ALL_45
+  - first:
+      213: -3445182807034622033
+    second: MV Icons PACK 2 - 24x24 - ALL_46
+  - first:
+      213: -1332539209346718508
+    second: MV Icons PACK 2 - 24x24 - ALL_47
+  - first:
+      213: -2942811635866787395
+    second: MV Icons PACK 2 - 24x24 - ALL_48
+  - first:
+      213: 7715016455404542342
+    second: MV Icons PACK 2 - 24x24 - ALL_49
+  - first:
+      213: 527314998583031880
+    second: MV Icons PACK 2 - 24x24 - ALL_50
+  - first:
+      213: 6788894128059592969
+    second: MV Icons PACK 2 - 24x24 - ALL_51
+  - first:
+      213: -4338521451327520113
+    second: MV Icons PACK 2 - 24x24 - ALL_52
+  - first:
+      213: -7277933871689398894
+    second: MV Icons PACK 2 - 24x24 - ALL_53
+  - first:
+      213: -7197515883011250380
+    second: MV Icons PACK 2 - 24x24 - ALL_54
+  - first:
+      213: -8707512259088018351
+    second: MV Icons PACK 2 - 24x24 - ALL_55
+  - first:
+      213: 4403510127049336343
+    second: MV Icons PACK 2 - 24x24 - ALL_56
+  - first:
+      213: -411970292492546699
+    second: MV Icons PACK 2 - 24x24 - ALL_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b9a3750f6370de0800000000000000
+      internalID: -1367063556000146539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195eb6d0ebba98230800000000000000
+      internalID: 3641630606463067537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3b0f49cf173b490800000000000000
+      internalID: -7731710805620509712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37111db371fab3110800000000000000
+      internalID: 1241778636593369459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6639965b1ad1579b0800000000000000
+      internalID: -5083124024047201434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473da3dc6467173e0800000000000000
+      internalID: -2057733508268633228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f4fb980a735e270800000000000000
+      internalID: 8279084652635836253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6378def29be0e1180800000000000000
+      internalID: -9142854004979693770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb03172cc4bdf6a80800000000000000
+      internalID: -8471311251334418242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10ab31ed66b35540800000000000000
+      internalID: 4995536994730483739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab70fd58947d5df80800000000000000
+      internalID: -8082317245467916358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9101e9434e4af7060800000000000000
+      internalID: 6953457649725607961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3d5bae0b66b23f0800000000000000
+      internalID: -924532388456442898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809bbabbd190b4ea0800000000000000
+      internalID: -5887602064549496568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339fec8141eaa6c30800000000000000
+      internalID: 4353483391145802035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23f19c37887fb240800000000000000
+      internalID: 4809695449287095086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c039fbfb9e3b810800000000000000
+      internalID: 1780023287503588399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bd8239f36a3eea0800000000000000
+      internalID: -5844645099414693104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bc05388cedf0100800000000000000
+      internalID: 76524671466523531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997616df592ac29d0800000000000000
+      internalID: -2797682503419074663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173e48c0d685b1900800000000000000
+      internalID: 656215396097254257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2e3e167ef5cd4a0800000000000000
+      internalID: -6567268709228617021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cffb927f816b1730800000000000000
+      internalID: 3970874765188267968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1482b3ddc1915040800000000000000
+      internalID: 4634645804746966044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb452d875cbc4ee50800000000000000
+      internalID: 6837814183251301566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_25
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b85357c4296d80c0800000000000000
+      internalID: -4571882440027318095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9d8692993452470800000000000000
+      internalID: 8369169807641729497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_27
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e9f3f4dba0d3330800000000000000
+      internalID: 3692119077708340889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae48e2e480edf350800000000000000
+      internalID: 6052240335602994857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_29
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf461fadf8abdbca0800000000000000
+      internalID: -5999434001571289861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_30
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2852f8a3d1b23d130800000000000000
+      internalID: 3590260732480923010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_31
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433857de6b18da950800000000000000
+      internalID: 6461963663014462260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07089600ddd017810800000000000000
+      internalID: 1761204172124422256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_33
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0713edf73539ab380800000000000000
+      internalID: -8954682922235973264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_34
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eecf380f0a565530800000000000000
+      internalID: 3843358352616705764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_35
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c07a70d8dba25e70800000000000000
+      internalID: 9102526744568164549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d710a008662a290800000000000000
+      internalID: -7880623697835229819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb007865c92bea50800000000000000
+      internalID: 6551376010777988018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5861a9cb78ca290800000000000000
+      internalID: -7877772404069071370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_39
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1215c34077b559870800000000000000
+      internalID: 8688951622811537697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb95493e0f797360800000000000000
+      internalID: 7167899981003987946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_41
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae30608c8a8c5d750800000000000000
+      internalID: 6329185478574998506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d967137f8017945f0800000000000000
+      internalID: -771961577796438371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_43
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05906f0c06701cb50800000000000000
+      internalID: 6611573840092203344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360a49263b9c176a0800000000000000
+      internalID: -6453155018754973597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_45
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac8fbffc35d81a90800000000000000
+      internalID: -7342884734462096211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_46
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf0b688d704030d0800000000000000
+      internalID: -3445182807034622033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_47
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4eb9136aed18de0800000000000000
+      internalID: -1332539209346718508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1264ba8680927d0800000000000000
+      internalID: -2942811635866787395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6895eac179e311b60800000000000000
+      internalID: 7715016455404542342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848f6478236615700800000000000000
+      internalID: 527314998583031880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_51
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9013ab88d3ff63e50800000000000000
+      internalID: 6788894128059592969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82063bf9b97ac3c0800000000000000
+      internalID: -4338521451327520113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2958b2f24b59ffa90800000000000000
+      internalID: -7277933871689398894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437e1ef30794d1c90800000000000000
+      internalID: -7197515883011250380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_55
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15413b71cb3b82780800000000000000
+      internalID: -8707512259088018351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7166c9731296c1d30800000000000000
+      internalID: 4403510127049336343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_57
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dc7f1a333684af0800000000000000
+      internalID: -411970292492546699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7186f4a6dcf514ea77e89a7fa7bf15
+      internalID: 101696198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_59
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4c23514aa7601418e8ae72f7ead36e
+      internalID: -1164438445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_60
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb72901de123886438f5c93b48b5009c
+      internalID: 1780084177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_61
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3c871d5fe08bb4e9fea4bbf4b84418
+      internalID: 796374927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_62
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bd25732e5bfd544920ddf515a668f3
+      internalID: -73989125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_63
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095d5e455d0674042a0258e22f61ae16
+      internalID: 294342901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba59f518e1cf62d468803c52a0ee78b2
+      internalID: 318477749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_65
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdd25ce43395df48b82e1395306f382
+      internalID: -1674580695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a2423058d470d46a3e9cf901143126
+      internalID: 1154022647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_67
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2656662055e7a4ca2a7918e4aff883
+      internalID: 1550807299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ea5ec0a596afb4388c2e302ad570e7
+      internalID: 727860446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_69
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e288dfd0fe437e49aa8730dcc9c4c42
+      internalID: 1964408296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_70
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6447443f887114eb0f2b37e1d12ff3
+      internalID: -1807495801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_71
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3067cc49401f24eb9b9ee8f36e31b5
+      internalID: -1787728374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2905be9cc28ed634ba86c1fd9791b824
+      internalID: -928707048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_73
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe269c146a9169a4c868a90afc40355c
+      internalID: -444180058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_74
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2d31e00edbc8e4788eb0d17c203849
+      internalID: -673931150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_75
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c454f184b6f8c4986b1442c667fc41
+      internalID: -491449224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_76
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d67d0eb7367228468eef504e639184b
+      internalID: 2018579503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_77
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e4c602c23e2e048a43fc4907360eaa
+      internalID: 230288695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_78
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a25362566783c34998ce5102c7727fb
+      internalID: -1258155159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_79
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cf3f8d0a4c3ad4eb83d416460a74ce
+      internalID: 1372607604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be8083c562e1d246951de0912ffe5fd
+      internalID: -487034270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_81
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937db6743ad07704fab3981c8f5e2ddf
+      internalID: 2112063061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_82
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304c24ee33aca8444bf5bc8d53ea42d9
+      internalID: 1079252037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_83
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74737f8a6f0c61142a5f2ddd570eeea3
+      internalID: 1725747162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3885c43ee617ca4f9a04b3c9c2f16a8
+      internalID: 1065059560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_85
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f849ec57f10d0d84b966b999fc970e6e
+      internalID: -1596176892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_86
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b145c34acd6cb44997ef9764b1299e
+      internalID: 168477418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_87
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e67d872011451741bbd02b1194b230a
+      internalID: 1910098000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b625be7ce0bb79a4ebbe6b07a00987dd
+      internalID: -1652736067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_89
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59ce7170286e08458799e4e44d86f4a
+      internalID: 1234537729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_90
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9825616d9c27b546ab9f96ab65a6815
+      internalID: 1510730292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_91
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ffe9be8565a734e9ed6ba41a99b95b
+      internalID: -866078896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_92
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b2268e76458ae4b9d042b45d149ac9
+      internalID: -449669076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_93
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be93bea670073a47aa0cea878e5b827
+      internalID: -554626165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_94
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98116c68fbe95d649a94b12c469b5ede
+      internalID: -134020085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MV Icons PACK 2 - 24x24 - ALL_95
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ed35fc7410cd14db21a649f8edcb4c
+      internalID: 2110992386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 886387feaee8c5344bff4c3f6054511e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":16.0,"y":6.0},"gridSpriteSize":{"x":24.0,"y":24.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      MV Icons PACK 2 - 24x24 - ALL_0: -1367063556000146539
+      MV Icons PACK 2 - 24x24 - ALL_1: 3641630606463067537
+      MV Icons PACK 2 - 24x24 - ALL_10: -8082317245467916358
+      MV Icons PACK 2 - 24x24 - ALL_11: 6953457649725607961
+      MV Icons PACK 2 - 24x24 - ALL_12: -924532388456442898
+      MV Icons PACK 2 - 24x24 - ALL_13: -5887602064549496568
+      MV Icons PACK 2 - 24x24 - ALL_14: 4353483391145802035
+      MV Icons PACK 2 - 24x24 - ALL_15: 4809695449287095086
+      MV Icons PACK 2 - 24x24 - ALL_16: 1780023287503588399
+      MV Icons PACK 2 - 24x24 - ALL_17: -5844645099414693104
+      MV Icons PACK 2 - 24x24 - ALL_18: 76524671466523531
+      MV Icons PACK 2 - 24x24 - ALL_19: -2797682503419074663
+      MV Icons PACK 2 - 24x24 - ALL_2: -7731710805620509712
+      MV Icons PACK 2 - 24x24 - ALL_20: 656215396097254257
+      MV Icons PACK 2 - 24x24 - ALL_21: -6567268709228617021
+      MV Icons PACK 2 - 24x24 - ALL_22: 3970874765188267968
+      MV Icons PACK 2 - 24x24 - ALL_23: 4634645804746966044
+      MV Icons PACK 2 - 24x24 - ALL_24: 6837814183251301566
+      MV Icons PACK 2 - 24x24 - ALL_25: -4571882440027318095
+      MV Icons PACK 2 - 24x24 - ALL_26: 8369169807641729497
+      MV Icons PACK 2 - 24x24 - ALL_27: 3692119077708340889
+      MV Icons PACK 2 - 24x24 - ALL_28: 6052240335602994857
+      MV Icons PACK 2 - 24x24 - ALL_29: -5999434001571289861
+      MV Icons PACK 2 - 24x24 - ALL_3: 1241778636593369459
+      MV Icons PACK 2 - 24x24 - ALL_30: 3590260732480923010
+      MV Icons PACK 2 - 24x24 - ALL_31: 6461963663014462260
+      MV Icons PACK 2 - 24x24 - ALL_32: 1761204172124422256
+      MV Icons PACK 2 - 24x24 - ALL_33: -8954682922235973264
+      MV Icons PACK 2 - 24x24 - ALL_34: 3843358352616705764
+      MV Icons PACK 2 - 24x24 - ALL_35: 9102526744568164549
+      MV Icons PACK 2 - 24x24 - ALL_36: -7880623697835229819
+      MV Icons PACK 2 - 24x24 - ALL_37: 6551376010777988018
+      MV Icons PACK 2 - 24x24 - ALL_38: -7877772404069071370
+      MV Icons PACK 2 - 24x24 - ALL_39: 8688951622811537697
+      MV Icons PACK 2 - 24x24 - ALL_4: -5083124024047201434
+      MV Icons PACK 2 - 24x24 - ALL_40: 7167899981003987946
+      MV Icons PACK 2 - 24x24 - ALL_41: 6329185478574998506
+      MV Icons PACK 2 - 24x24 - ALL_42: -771961577796438371
+      MV Icons PACK 2 - 24x24 - ALL_43: 6611573840092203344
+      MV Icons PACK 2 - 24x24 - ALL_44: -6453155018754973597
+      MV Icons PACK 2 - 24x24 - ALL_45: -7342884734462096211
+      MV Icons PACK 2 - 24x24 - ALL_46: -3445182807034622033
+      MV Icons PACK 2 - 24x24 - ALL_47: -1332539209346718508
+      MV Icons PACK 2 - 24x24 - ALL_48: -2942811635866787395
+      MV Icons PACK 2 - 24x24 - ALL_49: 7715016455404542342
+      MV Icons PACK 2 - 24x24 - ALL_5: -2057733508268633228
+      MV Icons PACK 2 - 24x24 - ALL_50: 527314998583031880
+      MV Icons PACK 2 - 24x24 - ALL_51: 6788894128059592969
+      MV Icons PACK 2 - 24x24 - ALL_52: -4338521451327520113
+      MV Icons PACK 2 - 24x24 - ALL_53: -7277933871689398894
+      MV Icons PACK 2 - 24x24 - ALL_54: -7197515883011250380
+      MV Icons PACK 2 - 24x24 - ALL_55: -8707512259088018351
+      MV Icons PACK 2 - 24x24 - ALL_56: 4403510127049336343
+      MV Icons PACK 2 - 24x24 - ALL_57: -411970292492546699
+      MV Icons PACK 2 - 24x24 - ALL_58: 101696198
+      MV Icons PACK 2 - 24x24 - ALL_59: -1164438445
+      MV Icons PACK 2 - 24x24 - ALL_6: 8279084652635836253
+      MV Icons PACK 2 - 24x24 - ALL_60: 1780084177
+      MV Icons PACK 2 - 24x24 - ALL_61: 796374927
+      MV Icons PACK 2 - 24x24 - ALL_62: -73989125
+      MV Icons PACK 2 - 24x24 - ALL_63: 294342901
+      MV Icons PACK 2 - 24x24 - ALL_64: 318477749
+      MV Icons PACK 2 - 24x24 - ALL_65: -1674580695
+      MV Icons PACK 2 - 24x24 - ALL_66: 1154022647
+      MV Icons PACK 2 - 24x24 - ALL_67: 1550807299
+      MV Icons PACK 2 - 24x24 - ALL_68: 727860446
+      MV Icons PACK 2 - 24x24 - ALL_69: 1964408296
+      MV Icons PACK 2 - 24x24 - ALL_7: -9142854004979693770
+      MV Icons PACK 2 - 24x24 - ALL_70: -1807495801
+      MV Icons PACK 2 - 24x24 - ALL_71: -1787728374
+      MV Icons PACK 2 - 24x24 - ALL_72: -928707048
+      MV Icons PACK 2 - 24x24 - ALL_73: -444180058
+      MV Icons PACK 2 - 24x24 - ALL_74: -673931150
+      MV Icons PACK 2 - 24x24 - ALL_75: -491449224
+      MV Icons PACK 2 - 24x24 - ALL_76: 2018579503
+      MV Icons PACK 2 - 24x24 - ALL_77: 230288695
+      MV Icons PACK 2 - 24x24 - ALL_78: -1258155159
+      MV Icons PACK 2 - 24x24 - ALL_79: 1372607604
+      MV Icons PACK 2 - 24x24 - ALL_8: -8471311251334418242
+      MV Icons PACK 2 - 24x24 - ALL_80: -487034270
+      MV Icons PACK 2 - 24x24 - ALL_81: 2112063061
+      MV Icons PACK 2 - 24x24 - ALL_82: 1079252037
+      MV Icons PACK 2 - 24x24 - ALL_83: 1725747162
+      MV Icons PACK 2 - 24x24 - ALL_84: 1065059560
+      MV Icons PACK 2 - 24x24 - ALL_85: -1596176892
+      MV Icons PACK 2 - 24x24 - ALL_86: 168477418
+      MV Icons PACK 2 - 24x24 - ALL_87: 1910098000
+      MV Icons PACK 2 - 24x24 - ALL_88: -1652736067
+      MV Icons PACK 2 - 24x24 - ALL_89: 1234537729
+      MV Icons PACK 2 - 24x24 - ALL_9: 4995536994730483739
+      MV Icons PACK 2 - 24x24 - ALL_90: 1510730292
+      MV Icons PACK 2 - 24x24 - ALL_91: -866078896
+      MV Icons PACK 2 - 24x24 - ALL_92: -449669076
+      MV Icons PACK 2 - 24x24 - ALL_93: -554626165
+      MV Icons PACK 2 - 24x24 - ALL_94: -134020085
+      MV Icons PACK 2 - 24x24 - ALL_95: 2110992386
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
