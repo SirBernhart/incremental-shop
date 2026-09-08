@@ -46,5 +46,8 @@ public class ClientQueueController : MonoBehaviour
     private void SetupNextClient()
     {
         clientQueue.Peek().Setup(playerBuyingNegotiationTable, playerSellingNegotiationTable);
+        
+        Client client = Instantiate(ClientPrefab, cachedTransform);
+        clientQueue.Enqueue(client);
     }
 }
