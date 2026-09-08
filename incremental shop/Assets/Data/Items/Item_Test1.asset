@@ -15,3 +15,4 @@ MonoBehaviour:
   Id: Test1
   Description: 
   Icon: {fileID: 5455553693531753210, guid: 7636373c01d3085498b9128e3e4939b1, type: 3}
+  BasePrice: 20
