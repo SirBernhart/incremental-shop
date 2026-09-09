@@ -1,6 +1,8 @@
 using System.Collections.Generic;
 using System.Linq;
+using Cysharp.Threading.Tasks;
 using UnityEngine;
+using Utils;
 
 public class ClientQueueController : MonoBehaviour
 {
@@ -9,7 +11,7 @@ public class ClientQueueController : MonoBehaviour
     [SerializeField] private NegotiationTable playerBuyingNegotiationTable;
 
     [Header("FUTURE STANDALONE CONFIG")]
-    [SerializeField] private int numberOfClients = 3; // TODO - migrate to level/day/run config
+    [SerializeField] private int numberOfClientsPool = 3; // TODO - migrate to level/day/run config
 
     private Transform cachedTransform;
 
@@ -23,28 +25,51 @@ public class ClientQueueController : MonoBehaviour
 
     public void Setup()
     {
-        for (int i = 0; i < numberOfClients; i++)
+        for (int i = 0; i < numberOfClientsPool; i++)
         {
-            Client client = Instantiate(ClientPrefab, cachedTransform);
-            clientQueue.Enqueue(client);
+            InstantiateNewClientInQueue();
+        }
+    }
+
+    // Used in Unity Editor: Finish Negotiation button
+    public void ClearPreviousClientAndSetupNextClient()
+    {
+        RemoveCurrentClient();
+
+        if (ShouldInstantiateClient())
+        {
+            InstantiateNewClientInQueue();
         }
 
         SetupNextClient();
     }
 
-    public void ClearPreviousClientAndSetupNextClient()
+    private bool ShouldInstantiateClient()
+    {
+        return clientQueue.Count < numberOfClientsPool
+            && ServicesLocator.Get<DayPeriodController>().IsPeriodEnded();
+    }
+
+    private void InstantiateNewClientInQueue()
+    {
+        Client client = Instantiate(ClientPrefab, cachedTransform);
+        clientQueue.Enqueue(client);
+    }
+
+    private void RemoveCurrentClient()
     {
         playerBuyingNegotiationTable.ClearItems();
         playerSellingNegotiationTable.ClearItems();
 
         Client previousClient = clientQueue.Dequeue();
         Destroy(previousClient.gameObject);
-        
-        SetupNextClient();
     }
-    
+
     private void SetupNextClient()
     {
-        clientQueue.Peek().Setup(playerBuyingNegotiationTable, playerSellingNegotiationTable);
+        if(clientQueue.Count > 0)
+        {
+            clientQueue.Peek().Setup(playerBuyingNegotiationTable, playerSellingNegotiationTable);
+        }
     }
 }
