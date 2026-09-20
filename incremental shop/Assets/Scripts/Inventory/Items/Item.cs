@@ -9,6 +9,11 @@ namespace CoreGameplay.Items
         public string Description;
         public Sprite Icon;
         public int BasePrice;
+
+        public override bool Equals(object other)
+        {
+            return Id == (other as Item)?.Id;
+        }
     }
 }
 
