@@ -1,3 +1,4 @@
+using CoreGameplay.Items;
 using UnityEngine;
 using Utils;
 
@@ -8,7 +9,7 @@ public class PlayerBuyingItemView : ItemView
     
     protected override void UpdateInteractableState()
     {
-        isInteractable = PlayerInventory.CanFitItem(this) 
+        isInteractable = PlayerInventory.CanFitItem(this.ItemConfig) 
                          && ServicesLocator.Get<CurrencyService>().HasEnoughCurrency(PriceAdjustedForPlayer);
     }
 
@@ -21,7 +22,7 @@ public class PlayerBuyingItemView : ItemView
         Destroy(gameObject);
     }
 
-    protected override void HandleOnInventoryItemAmountChanged()
+    protected override void HandleOnInventoryItemAmountChanged(Item item, int amount, int oldAmount)
     {
         UpdateInteractableState();
         

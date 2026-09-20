@@ -1,3 +1,4 @@
+using CoreGameplay.Items;
 using UnityEngine;
 using Utils;
 
@@ -27,9 +28,9 @@ public class PlayerSellingItemView : ItemView
         UpdateInteractableColor();
     }
 
-    protected override void HandleOnInventoryItemAmountChanged()
+    protected override void HandleOnInventoryItemAmountChanged(Item item, int amount, int oldAmount)
     {
-        base.HandleOnInventoryItemAmountChanged();
+        base.HandleOnInventoryItemAmountChanged(item, amount, oldAmount);
         
         UpdateInteractableState();
     }

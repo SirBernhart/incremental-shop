@@ -22,4 +22,15 @@ public class PlayerInventoryItemView : ItemView
     {
         // TODO: Consider adding a popup that shows item description
     }
+
+    protected override void HandleOnInventoryItemAmountChanged(Item item, int amount, int oldAmount)
+    {
+        if (amount <= 0)
+        {
+            Destroy(gameObject);
+            return;
+        }
+        
+        UpdateItemCount(amount);
+    }
 }

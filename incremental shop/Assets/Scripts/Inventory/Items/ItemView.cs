@@ -3,6 +3,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
+using Utils;
 
 public abstract class ItemView : MonoBehaviour, IPointerClickHandler
 {
@@ -18,15 +19,14 @@ public abstract class ItemView : MonoBehaviour, IPointerClickHandler
     public Item ItemConfig {get; private set;}
     
     protected bool isInteractable = true;
-
-    public void Setup(Item config, Inventory playerInventory)
+    
+    public virtual void Setup(Item config)
     {
         ItemConfig = config;
         icon.sprite = ItemConfig.Icon;
-        PlayerInventory = playerInventory;
+        PlayerInventory = ServicesLocator.Get<Inventory>();
         PlayerInventory.OnInventoryItemAmountChanged += HandleOnInventoryItemAmountChanged;
         itemPriceText.text = PriceAdjustedForPlayer.ToString();
-        Debug.Log(PriceAdjustedForPlayer);
         UpdateInteractableState();
     }
 
@@ -42,7 +42,7 @@ public abstract class ItemView : MonoBehaviour, IPointerClickHandler
         Interact();
     }
 
-    protected virtual void HandleOnInventoryItemAmountChanged() { }
+    protected virtual void HandleOnInventoryItemAmountChanged(Item item, int amount, int oldAmount) { }
 
     protected abstract void Interact();
 
