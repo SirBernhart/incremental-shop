@@ -1,11 +1,20 @@
+using CoreGameplay.Items;
 using TMPro;
 using UnityEngine;
+using Utils;
 
 public class PlayerInventoryItemView : ItemView
 {
     [SerializeField] private TMP_Text itemCountText;
     [SerializeField] private GameObject itemCountHolder;
-    
+
+    public override void Setup(Item config)
+    {
+        base.Setup(config);
+        
+        UpdateItemCount(ServicesLocator.Get<Inventory>().GetItemCount(ItemConfig));
+    }
+
     public void UpdateItemCount(int count)
     {
         itemCountHolder.SetActive(count > 1);
