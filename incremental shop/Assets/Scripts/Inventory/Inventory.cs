@@ -2,70 +2,74 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using CoreGameplay.Items;
-using UnityEngine;
 
-public class Inventory : MonoBehaviour
+public class Inventory
 {
-    [SerializeField] private Transform itemsContainer;
-    [SerializeField] private int itemLimit;
-    [SerializeField] private PlayerInventoryItemView _itemViewPrefab;
-    
-    private Dictionary<string, ItemAmount> _itemIdToAmount = new();
+    private int _itemLimit = 5;
+    private Dictionary<Item, int> _itemConfigToAmount = new();
 
-    public Action OnInventoryItemAmountChanged;
+    public Action<Item, int, int> OnInventoryItemAmountChanged;
 
-    public bool CanFitItem(ItemView itemView)
+    public List<KeyValuePair<Item, int>> GetAllItems()
     {
-        if(_itemIdToAmount.ContainsKey(itemView.ItemConfig.Id))
+        return _itemConfigToAmount.ToList();
+    }
+
+    public int GetItemCount(Item item)
+    {
+        _itemConfigToAmount.TryGetValue(item, out int amount);
+        return amount;
+    }
+    
+    public bool CanFitItem(Item item)
+    {
+        if(_itemConfigToAmount.ContainsKey(item))
         {
             return true;
         }
         
-        return _itemIdToAmount.Count < itemLimit;
+        return _itemConfigToAmount.Count < _itemLimit;
     }
     
     public void AddItem(Item itemConfig)
     {
-        if (!_itemIdToAmount.TryGetValue(itemConfig.Id, out ItemAmount itemAmount))
+        if (!_itemConfigToAmount.TryGetValue(itemConfig, out int amount))
         {
-            if (_itemIdToAmount.Count >= itemLimit)
+            if (_itemConfigToAmount.Count >= _itemLimit)
             {
                 return;
             }
             
-            var inventoryItemView = Instantiate(_itemViewPrefab, itemsContainer);
-            inventoryItemView.Setup(itemConfig, this);
-            
-            itemAmount = new ItemAmount { Amount = 0, ItemView = inventoryItemView };
-            _itemIdToAmount.Add(itemConfig.Id, itemAmount);
+            _itemConfigToAmount.Add(itemConfig, amount);
         }
+
+        int oldAmount = amount;
+        amount++;
         
-        itemAmount.Amount++;
-        (itemAmount.ItemView as PlayerInventoryItemView).UpdateItemCount(itemAmount.Amount);
-        
-        _itemIdToAmount[itemConfig.Id] = itemAmount;
-        OnInventoryItemAmountChanged?.Invoke();
+        _itemConfigToAmount[itemConfig] = amount;
+        OnInventoryItemAmountChanged?.Invoke(itemConfig, amount, oldAmount);
     }
 
     public bool HasItem(ItemView itemView)
     {
-        return _itemIdToAmount.ContainsKey(itemView.ItemConfig.Id);
+        return _itemConfigToAmount.ContainsKey(itemView.ItemConfig);
     }
 
     public void TakeItem(Item itemConfig)
     {
-        ItemAmount itemAmount = _itemIdToAmount[itemConfig.Id];
-        itemAmount.Amount--;
-        if (itemAmount.Amount <= 0)
+        int itemAmount = _itemConfigToAmount[itemConfig];
+        int oldAmount = itemAmount;
+        itemAmount--;
+        if (itemAmount <= 0)
         {
-            _itemIdToAmount.Remove(itemConfig.Id);
-            Destroy(itemAmount.ItemView.gameObject);
+            _itemConfigToAmount.Remove(itemConfig);
         }
         else
         {
-            (itemAmount.ItemView as PlayerInventoryItemView).UpdateItemCount(itemAmount.Amount);
+            //TODO: Move to inventory view
+            //(itemAmount.ItemView as PlayerInventoryItemView).UpdateItemCount(itemAmount);
         }
         
-        OnInventoryItemAmountChanged?.Invoke();
+        OnInventoryItemAmountChanged?.Invoke(itemConfig, itemAmount, oldAmount);
     }
 }
