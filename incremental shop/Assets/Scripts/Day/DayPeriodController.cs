@@ -1,11 +1,14 @@
 using System;
 using Cysharp.Threading.Tasks;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class DayPeriodController : MonoBehaviour
 {
     public event Action<int> OnTick;
     public event Action OnPeriodEnd;
+    [SerializeField] private UnityEvent OnPeriodEndUnityEvent;
+    
 
     [SerializeField] private DayPeriodControllerView view;
 
@@ -19,6 +22,8 @@ public class DayPeriodController : MonoBehaviour
 
     private void Awake()
     {
+        OnPeriodEnd += () => OnPeriodEndUnityEvent.Invoke();
+        
         view.Setup(0, timerGoal, this);
         StartTimer(tickSize, timerGoal);
     }
