@@ -19,6 +19,7 @@ public class DayPeriodController : MonoBehaviour
     public int GetTimerGoal => timerGoal;
 
     private int currentTime;
+    private int goalTime;
 
     private void Awake()
     {
@@ -43,10 +44,11 @@ public class DayPeriodController : MonoBehaviour
     {
         int tickMilliseconds = tickSeconds * 1000;
         int goalMilliseconds = goalSeconds * 1000;
+        goalTime = goalMilliseconds;
 
         currentTime = 0;
 
-        while(currentTime < goalMilliseconds)
+        while(IsPeriodEnded())
         {
             await UniTask.Delay(tickMilliseconds);
             currentTime += tickMilliseconds;
@@ -54,5 +56,10 @@ public class DayPeriodController : MonoBehaviour
         }
 
         OnPeriodEnd?.Invoke();
+    }
+
+    public bool IsPeriodEnded()
+    {
+        return currentTime < goalTime;
     }
 }
