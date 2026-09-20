@@ -30,7 +30,8 @@ namespace Utils
 
         public static T Get<T>()
         {
-            return (T) registeredServices[typeof(T)];
+            registeredServices.TryGetValue(typeof(T), out var service);
+            return (T) service;
         }
 
         private static void Register(Type expectedType, object service)
