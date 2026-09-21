@@ -36,6 +36,7 @@ public class PlayerInventoryItemView : ItemView
     {
         if (amount <= 0)
         {
+            PlayerInventory.OnInventoryItemAmountChanged -= HandleOnInventoryItemAmountChanged;
             Destroy(gameObject);
             return;
         }
