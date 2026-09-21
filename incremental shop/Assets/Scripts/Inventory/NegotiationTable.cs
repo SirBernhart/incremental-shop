@@ -16,6 +16,16 @@ public class NegotiationTable : MonoBehaviour
         items.Add(itemView.gameObject);
     }
 
+    public void AddItemRange(params Item[] itemList)
+    {
+        foreach(Item itemConfig in itemList)
+        {
+            ItemView itemView = Instantiate(itemViewPrefab, itemHolder);
+            itemView.Setup(itemConfig);
+            items.Add(itemView.gameObject);
+        }
+    }
+
     public void ClearItems()
     {
         foreach (GameObject item in items)
